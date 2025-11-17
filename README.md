@@ -1,4 +1,4 @@
-# Mark Koudritsky - Consulting Services
+# Mark Koudritsky <br/>Consulting Services
 
 I offer targeted consulting for software teams looking to improve both their **technical architecture** and **team effectiveness**. My focus is on the intersection of technology and leadership — helping team leads and managers create systems and cultures that scale.
 
