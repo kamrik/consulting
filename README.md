@@ -17,7 +17,7 @@ I offer targeted consulting for software teams looking to improve both their **t
 If your team is growing, struggling with complexity, or looking to level up how it operates — I can help.
 
 ### Get in Touch
-- Mark Koudritsky \<kamrik@gmail.com\>
-- https://www.linkedin.com/in/kamrik
-- http://t.me/kamrikk
+- [Mark Koudritsky \<kamrik@gmail.com\>](mailto:kamrik@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kamrik)
+- [Telegram](http://t.me/kamrikk)
 
